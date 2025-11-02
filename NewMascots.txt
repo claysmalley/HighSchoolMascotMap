@@ -5,6 +5,7 @@ Argonauts
 Artesians
 Astronauts
 Axolotl
+Barrons
 Battlin' Billies
 Bear
 Benjie
@@ -94,6 +95,7 @@ Lions;Lady Lions
 Lions;Socrates the Lion
 Little Johns
 Loggers;Loggerettes
+Longhorn
 Lumberjack;Lumberjill
 Lyons
 Magic
