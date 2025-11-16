@@ -7,7 +7,6 @@ Astronauts
 Axolotl
 Barrons
 Battlin' Billies
-Bear
 Benjie
 Big Blue
 Big Reds
@@ -25,6 +24,7 @@ Blue Tornado
 Blue Whales
 Bluejackets
 Blues
+Bobcat
 Bobcats;Deer
 Brahman
 Brahmans
@@ -35,7 +35,6 @@ Broncos;Fillies
 Buckeyes
 Buddies
 Bulldog Pups
-Bullgogs
 Buzzy the Hornet
 Caballeros
 Captains
@@ -62,7 +61,6 @@ Dragonflies
 Electrics
 Exporters
 Fillies;Mustangs
-Flacons
 Flash
 Flying Flucos
 Foxberry
@@ -88,6 +86,7 @@ Junior Blues
 Junior Huskies
 Junior Seahawks
 Kahoks
+Kardinals
 Kays
 Kewpies
 King Cubs
@@ -97,7 +96,6 @@ Lions;Lady Lions
 Lions;Socrates the Lion
 Little Johns
 Loggers;Loggerettes
-Longhorn
 Lumberjack;Lumberjill
 Lyons
 Magic
@@ -105,14 +103,13 @@ Maniacs
 Marmots
 Maroon
 Maroon Tide
+Maroon Tigers
 Maroons
-Matador
 Middies
 Minutemen
 Missiles
 Modeltowners
 Muckers
-Mustang
 Mustangs;Fillies
 Mustangs;Lady Mustangs
 Navi
@@ -130,6 +127,7 @@ Peacocks
 Pied Pipers
 Pioneers;Dusty the Pioneer
 Pirates;Lady Pirates
+Pointer
 Polars
 Porcupines
 Porters
@@ -147,6 +145,7 @@ Red Tails
 Renegades
 Rocks
 Rockstars
+Roughers
 Sachems
 Sages
 Sandies;Sandiettes
@@ -154,6 +153,7 @@ Savages
 Saxons
 Sea King
 Sequoits
+Siberian Husky
 Slicers
 Snow Leopards
 Soaring Hawks
@@ -207,46 +207,5 @@ Wreckers
 Wykons
 Yellow Jackets;Honeybees
 Yellowhammers
-bear
-bears
-bobcat
-broncos
-bulldogs
-cardinal
-cardinals
-cobra
 cobras
-demons
-eagle
-eagles
-general
-hawks
-hornets
-huskies
-indians
-jaguars
-judges
-knights
-lightning
-lions
-longhorns
-millers
-owl
-pacers
-panthers
-patriots
-pioneers
-pointer
-roughers
-sabercats
 salmon
-savages
-siberian husky
-tigers
-timberwolf
-viking
-vikings
-wildcats
-wolverine
-wolverines
-wolves
