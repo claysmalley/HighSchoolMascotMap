@@ -5,12 +5,17 @@ Argonauts
 Artesians
 Astronauts
 Axolotl
+Bald Eagles
 Barrons
 Battlin' Billies
+Beacons
 Benjie
 Big Blue
+Big Green
+Big Red
 Big Reds
 Black Scots
+Blackbirds
 Blackscots
 Blazer Bees
 Blue Aces
@@ -40,8 +45,10 @@ Caballeros
 Captains
 Caravan
 Challengers
+Chanticleers
 Chimeras
 Chipmunks
+Chippewas
 Chokers
 Cocky
 Comanches
@@ -72,6 +79,7 @@ Hardrockers
 Harpooners;Harpoonerettes
 Hedgehogs
 Hillbillies
+Hillcats
 Hyacks
 Hyaks
 Ironmen
@@ -94,6 +102,7 @@ Kākā
 Leathernecks
 Lions;Lady Lions
 Lions;Socrates the Lion
+Little Green
 Little Johns
 Loggers;Loggerettes
 Lumberjack;Lumberjill
@@ -107,8 +116,10 @@ Maroon Tigers
 Maroons
 Middies
 Minutemen
+Minutemen;Minutewomen
 Missiles
 Modeltowners
+Mohawks
 Muckers
 Mustangs;Fillies
 Mustangs;Lady Mustangs
@@ -122,8 +133,10 @@ Pacers
 Packers
 Padres
 Paladins
+Panthers; Patriots
 Peace Cranes
 Peacocks
+Penmen
 Pied Pipers
 Pioneers;Dusty the Pioneer
 Pirates;Lady Pirates
@@ -133,6 +146,7 @@ Porcupines
 Porters
 Potters
 Punchers
+Pythons
 Quaker
 Quakers
 Racers
@@ -143,15 +157,22 @@ Reapers
 Red Riots
 Red Tails
 Renegades
+Riptides
+River Hawks
 Rocks
 Rockstars
 Roughers
 Sachems
 Sages
 Sandies;Sandiettes
+Sandites
 Savages
 Saxons
+Scarlet Knights
+Scarlet Raiders
+Scarlet Raptors
 Sea King
+Seminoles
 Sequoits
 Siberian Husky
 Slicers
