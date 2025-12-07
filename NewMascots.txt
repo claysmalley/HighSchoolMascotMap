@@ -8,6 +8,7 @@ Astronauts
 Axolotl
 Bald Eagles
 Barrons
+Basset Hounds
 Battlin' Billies
 Beacons
 Benjie
@@ -40,6 +41,7 @@ Bronchos
 Broncos;Fillies
 Buckeyes
 Buddies
+Builldogs
 Bulldog
 Bulldog Pups
 Buzzy the Hornet
@@ -52,7 +54,6 @@ Chimeras
 Chipmunks
 Chippewas
 Chokers
-Cocky
 Comanches
 Copper Kings
 Cotton Pickers
@@ -68,12 +69,14 @@ Dodgers
 Dons
 Dragonflies
 Electrics
+Elements
 Exporters
 Fillies;Mustangs
 Flash
 Flying Flucos
 Foxberry
 Gales
+Gamecocks
 Gila Monsters
 Goldburgs
 Gremlins
@@ -83,10 +86,12 @@ Haybalers
 Hedgehogs
 Hillbillies
 Hillcats
+Hillmen
 Hokies
 Hyacks
 Hyaks
 Ironmen
+Jack Rabbits
 Jackets
 Jayhawks
 Jerseys
@@ -100,6 +105,7 @@ Junior Seahawks
 Kahoks
 Kardinals
 Kays
+Kestrels
 Kewpies
 King Cubs
 Kākā
@@ -113,6 +119,7 @@ Loggers;Loggerettes
 Lumberjack;Lumberjill
 Lyons
 Magic
+Mammoths
 Maniacs
 Marmots
 Maroon
@@ -180,11 +187,14 @@ Sachems
 Sages
 Sandies;Sandiettes
 Sandites
+Sandpipers
+Sasquatch
 Savages
 Saxons
 Scarlet Knights
 Scarlet Raiders
 Scarlet Raptors
+Screamin' Eagles
 Sea King
 Seminoles
 Sequoits
@@ -192,17 +202,20 @@ Siberian Husky
 Slicers
 Snow Leopards
 Soaring Hawks
+Sparrowhawks
 Springers
 Spy Ponders
 Squirrels
 Stanners
 Steelers
 Steelmen
+Stompers
 Stormrays
 String
 Sultans
 Sun Dragons
 Super Star Sam
+Super Stars
 T-Bolts
 Talismen
 Talons
@@ -221,9 +234,11 @@ Totems
 Towhees
 Trevians
 Tribe
+Trojan
 Trollers
 Turks
 Tyees
+Ugly Eagles
 Valiants
 Valkyries
 Vanguards
