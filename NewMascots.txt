@@ -1,6 +1,7 @@
 76ers
 87s
 Aggies
+All-Stars
 Archie the Lion;Monarchs
 Argonauts
 Artesians
@@ -11,6 +12,7 @@ Barrons
 Basset Hounds
 Battlin' Billies
 Beacons
+Bearcubs
 Benjie
 Big Blue
 Big Green
@@ -50,6 +52,7 @@ Captains
 Caravan
 Challengers
 Chanticleers
+Chickasaws
 Chimeras
 Chipmunks
 Chippewas
@@ -70,26 +73,33 @@ Dons
 Dragonflies
 Electrics
 Elements
+Elk
 Exporters
+Fighting Eagles
 Fillies;Mustangs
 Flash
+Fliers
 Flying Flucos
 Foxberry
 Gales
 Gamecocks
 Gila Monsters
 Goldburgs
+Great Blue Heron
 Gremlins
+Groundhogs
 Hardrockers
 Harpooners;Harpoonerettes
 Haybalers
 Hedgehogs
+Heroes
 Hillbillies
 Hillcats
 Hillmen
 Hokies
 Hyacks
 Hyaks
+Iguanas
 Ironmen
 Jack Rabbits
 Jackets
@@ -101,24 +111,35 @@ Jugglers
 Junior Bills
 Junior Blues
 Junior Huskies
+Junior Panthers
 Junior Seahawks
 Kahoks
 Kardinals
+Kats
 Kays
 Kestrels
 Kewpies
 King Cubs
+Kittens
 Kākā
 Lakes
 Leathernecks
+Lil' Aggies
+Lil' Cats
+Lil' Trojans
 Lions;Lady Lions
 Lions;Socrates the Lion
+Little Chiefs
 Little Green
+Little Griffins
 Little Johns
+Lizards
 Loggers;Loggerettes
+Loyal Lions
 Lumberjack;Lumberjill
 Lyons
 Magic
+Mallards
 Mammoths
 Maniacs
 Marmots
@@ -152,17 +173,20 @@ Peace Cranes
 Peacocks
 Penmen
 Pied Pipers
+Pink Panthers
 Pioneers;Dusty the Pioneer
 Pirates;Lady Pirates
 Pointer
 Polars
 Porcupines
 Porters
+Positive Astros
 Potters
 Punchers
 Pythons
 Quaker
 Quakers
+Qughsatkut
 Racers
 Raging Rhino
 Raider
@@ -170,19 +194,25 @@ Ramblers
 Rams;Lady Rams
 Rangers;Penguins
 Reapers
+Red Birds
 Red Riots
 Red Tail Hawks
 Red Tails
+Red-Tailed Hawks
 Renegades
+Retrievers
+Ringtails
 Riptides
 River Hawks
 Riverhawk
+Rockin' Robins
 Rocklin Thunder
 Rocks
 Rockstars
 Roseville Tiger
 Roughers
 Royal Scots
+Saber-Tooth Tigers
 Sachems
 Sages
 Sandies;Sandiettes
@@ -194,11 +224,17 @@ Saxons
 Scarlet Knights
 Scarlet Raiders
 Scarlet Raptors
+Scholarly Knights
+Scholars
+Scorpion
 Screamin' Eagles
 Sea King
 Seminoles
 Sequoits
+Shining Stars
 Siberian Husky
+Silver Comets
+Sky Hawks
 Slicers
 Snow Leopards
 Soaring Hawks
@@ -216,6 +252,7 @@ Sultans
 Sun Dragons
 Super Star Sam
 Super Stars
+Swathers
 T-Bolts
 Talismen
 Talons
@@ -226,12 +263,18 @@ Terrors
 Testudo
 The Green Dragon
 Think Flamingo
+Thoroughbreds
+Tiger
 Tigers and Jaguars
 Tilly the Tiger
 Tommy the Trojan
+Top Cats
+Top Tigers
 Toreadores
 Totems
 Towhees
+Trail Blazers
+Travelers
 Trevians
 Tribe
 Trojan
@@ -239,6 +282,7 @@ Trollers
 Turks
 Tyees
 Ugly Eagles
+Univees
 Valiants
 Valkyries
 Vanguards
@@ -252,14 +296,19 @@ Wampus Cats
 Wave
 Wheelers
 Whippet
+White Wings
 Whundas
 Wild
 Wildcat
+Wildcat Cubs
 Wolf
+Woodchucks
 Woody the Bear
 Wreckers
 Wykons
 Yellow Jackets;Honeybees
 Yellowhammers
 cobras
+dogs
+eagles
 salmon
