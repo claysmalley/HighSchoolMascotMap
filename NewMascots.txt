@@ -47,7 +47,7 @@ Buddies
 Builldogs
 Bulldog
 Bulldog Pups
-Bunny
+Bunnies
 Buzzy the Hornet
 Caballeros
 Captains
@@ -59,11 +59,13 @@ Chimeras
 Chipmunks
 Chippewas
 Chokers
+Columbians
 Comanches
 Copper Kings
 Cotton Pickers
 Cowboys;Cowgirls
 Crickets
+Crimson Pride
 Crimson Wave
 Cruisers
 Cubs;Cubettes
@@ -73,12 +75,14 @@ Devildogs
 Dodgers
 Dons
 Dragonflies
+Drillers
 Electrics
 Elements
 Elk
 Exporters
 Fighting Eagles
 Fillies;Mustangs
+Fire
 Flash
 Fliers
 Flying Dutchmen
@@ -127,7 +131,9 @@ King Cubs
 Kittens
 Kākā
 Lakes
+Lasers
 Leathernecks
+Lemurs
 Lil' Aggies
 Lil' Cats
 Lil' Trojans
@@ -195,6 +201,7 @@ Quips
 Racers
 Raging Rhino
 Raider
+Raindevils
 Ramblers
 Rams;Lady Rams
 Rangers;Penguins
@@ -260,6 +267,7 @@ Sun Dragons
 Super Star Sam
 Super Stars
 Swathers
+Swedes
 T-Bolts
 Talismen
 Talons
