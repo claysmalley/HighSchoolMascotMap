@@ -24,7 +24,6 @@ Blackscots
 Blazer Bees
 Blue Aces
 Blue Darters
-Blue Devil
 Blue Devils;Lady Devils
 Blue Hoses
 Blue Jackets
@@ -33,7 +32,6 @@ Blue Tornado
 Blue Whales
 Bluejackets
 Blues
-Bobcat
 Bobcats;Deer
 Brahman
 Brahmans
@@ -44,8 +42,6 @@ Bronchos
 Broncos;Fillies
 Buckeyes
 Buddies
-Builldogs
-Bulldog
 Bulldog Pups
 Bunnies
 Buzzy the Hornet
@@ -177,7 +173,6 @@ Pacers
 Packers
 Padres
 Paladins
-Panther
 Panthers; Patriots
 Peace Cranes
 Peacocks
@@ -186,7 +181,6 @@ Pied Pipers
 Pink Panthers
 Pioneers;Dusty the Pioneer
 Pirates;Lady Pirates
-Pointer
 Polars
 Porcupines
 Porters
@@ -194,13 +188,11 @@ Positive Astros
 Potters
 Punchers
 Pythons
-Quaker
 Quakers
 Qughsatkut
 Quips
 Racers
 Raging Rhino
-Raider
 Raindevils
 Ramblers
 Rams;Lady Rams
@@ -239,7 +231,6 @@ Scarlet Raiders
 Scarlet Raptors
 Scholarly Knights
 Scholars
-Scorpion
 Screamin' Eagles
 Sea King
 Seminoles
@@ -279,7 +270,6 @@ Testudo
 The Green Dragon
 Think Flamingo
 Thoroughbreds
-Tiger
 Tigers and Jaguars
 Tilly the Tiger
 Timber Pups
@@ -293,7 +283,6 @@ Trail Blazers
 Travelers
 Trevians
 Tribe
-Trojan
 Trollers
 Turks
 Tyees
@@ -311,11 +300,9 @@ Wamps
 Wampus Cats
 Wave
 Wheelers
-Whippet
 White Wings
 Whundas
 Wild
-Wildcat
 Wildcat Cubs
 Wolf
 Woodchucks
@@ -324,7 +311,4 @@ Wreckers
 Wykons
 Yellow Jackets;Honeybees
 Yellowhammers
-cobras
-dogs
-eagles
 salmon
