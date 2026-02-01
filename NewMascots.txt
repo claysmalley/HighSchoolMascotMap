@@ -1,5 +1,7 @@
 76ers
 87s
+?
+? (CCHS)
 Aggies
 All-Stars
 Archie the Lion;Monarchs
@@ -111,6 +113,7 @@ Jackets
 Jayhawks
 Jerseys
 Jimmies
+Jr. Raiders
 Juggernauts
 Jugglers
 Junior Bills
@@ -217,6 +220,7 @@ Rocks
 Rockstars
 Roseville Tiger
 Roughers
+Royal Rhinos
 Royal Scots
 Saber-Tooth Tigers
 Sachems
@@ -293,6 +297,7 @@ Valiants
 Valkyries
 Vanguards
 Vikings;Titans
+Viktor E. Rat
 Vols
 Volunteers
 Voyagers
