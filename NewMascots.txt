@@ -14,6 +14,7 @@ Barristers
 Barrons
 Basset Hounds
 Battlin' Billies
+Battling Bees;Bees
 Beacons
 Bearcubs
 Benjie
@@ -53,6 +54,7 @@ Buzzy the Hornet
 Caballeros
 Captains
 Caravan
+Ceramics
 Challengers
 Chanticleers
 Chickasaws
@@ -66,6 +68,7 @@ Copper Kings
 Cotton Pickers
 Cowboys;Cowgirls
 Crickets
+Crimson Flashes
 Crimson Pride
 Crimson Wave
 Crocs
@@ -96,6 +99,7 @@ Gamecocks
 Gila Monsters
 Goldburgs
 Great Blue Heron
+Greenmen
 Gremlins
 Groundhogs
 Hardrockers
@@ -278,6 +282,7 @@ Swedes
 T-Bolts
 Talismen
 Talons
+Tanners
 Tarriers
 Tartans
 Tartars
@@ -286,6 +291,7 @@ Testudo
 The Green Dragon
 Think Flamingo
 Thoroughbreds
+Tigerhawks
 Tigers and Jaguars
 Tilly the Tiger
 Timber Pups
