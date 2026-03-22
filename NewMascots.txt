@@ -32,6 +32,7 @@ Blue Devils;Lady Devils
 Blue Hoses
 Blue Jackets
 Blue Streaks
+Blue Tigers
 Blue Tornado
 Blue Whales
 Bluehawks
@@ -159,6 +160,7 @@ Loyal Lions
 Lumberjack;Lumberjill
 Lyons
 Magic
+Magicians
 Mallards
 Mammoths
 Maniacs
@@ -167,6 +169,7 @@ Maroon
 Maroon Tide
 Maroon Tigers
 Maroons
+Matadores
 Middies
 Mighty Arabs
 Millionaires
@@ -196,6 +199,7 @@ Panthers; Patriots
 Peace Cranes
 Peacocks
 Penmen
+Phoenix Firebirds
 Pied Pipers
 Pink Panthers
 Pioneers;Dusty the Pioneer
@@ -218,6 +222,7 @@ Rams;Lady Rams
 Rangers;Penguins
 Reapers
 Red Birds
+Red Rams
 Red Riots
 Red Tail Hawks
 Red Tails
@@ -233,6 +238,7 @@ Rockin' Robins
 Rocklin Thunder
 Rocks
 Rockstars
+Roosters
 Roseville Tiger
 Roughers
 Royal Rhinos
@@ -283,6 +289,7 @@ T-Bolts
 Talismen
 Talons
 Tanners
+Tarbabes
 Tarriers
 Tartans
 Tartars
