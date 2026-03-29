@@ -255,6 +255,7 @@ Saxons
 Scarlet Knights
 Scarlet Raiders
 Scarlet Raptors
+Scarlets
 Scholarly Knights
 Scholars
 Screamin' Eagles
@@ -343,3 +344,4 @@ Wykons
 Yellow Jackets;Honeybees
 Yellowhammers
 salmon
+tiger
