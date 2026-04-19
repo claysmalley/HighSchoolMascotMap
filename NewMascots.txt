@@ -58,6 +58,7 @@ Caravan
 Ceramics
 Challengers
 Chanticleers
+Charger
 Chickasaws
 Chimeras
 Chipmunks
@@ -140,6 +141,7 @@ Kestrels
 Kewpies
 King Cubs
 Kittens
+Knight
 Kākā
 Lakes
 Lasers
@@ -211,6 +213,7 @@ Porters
 Positive Astros
 Potters
 Punchers
+Python
 Pythons
 Quakers
 Qughsatkut
@@ -344,5 +347,6 @@ Wreckers
 Wykons
 Yellow Jackets;Honeybees
 Yellowhammers
+cougar
 salmon
 tiger
