@@ -168,6 +168,7 @@ Magicians
 Mallards
 Mammoths
 Maniacs
+Maples
 Marmots
 Maroon
 Maroon Tide
@@ -183,6 +184,7 @@ Missiles
 Modeltowners
 Mohawks
 Monsoons
+Moutaineers
 Muckers
 Musketeers
 Mustangs;Fillies
@@ -251,6 +253,7 @@ Royal Scots
 Saber-Tooth Tigers
 Sachems
 Sages
+Salthawks
 Sandies;Sandiettes
 Sandites
 Sandpipers
@@ -264,6 +267,7 @@ Scarlets
 Scholarly Knights
 Scholars
 Screamin' Eagles
+Seabees
 Seminoles
 Sequoits
 Sheiks
@@ -349,5 +353,8 @@ Wykons
 Yellow Jackets;Honeybees
 Yellowhammers
 cougar
+cougars
+panthers
 salmon
+sharks
 tiger
