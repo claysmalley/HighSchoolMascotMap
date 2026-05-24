@@ -64,6 +64,7 @@ Chimeras
 Chipmunks
 Chippewas
 Chokers
+Cobbers
 Columbians
 Comanches
 Copper Kings
@@ -100,6 +101,7 @@ Gales
 Gamecocks
 Gila Monsters
 Goldburgs
+Golden Tornado
 Great Blue Heron
 Greenmen
 Gremlins
@@ -168,6 +170,7 @@ Magicians
 Mallards
 Mammoths
 Maniacs
+Maple Leaf
 Maples
 Marmots
 Maroon
