@@ -249,7 +249,6 @@ Rocklin Thunder
 Rocks
 Rockstars
 Roosters
-Roseville Tiger
 Roughers
 Royal Rhinos
 Royal Scots
@@ -355,9 +354,11 @@ Wreckers
 Wykons
 Yellow Jackets;Honeybees
 Yellowhammers
+Yeomen
 cougar
 cougars
 panthers
 salmon
+sea_kings
 sharks
 tiger
